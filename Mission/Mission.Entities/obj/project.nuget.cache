@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UCY91sFxB0Y=",
+  "dgSpecHash": "OE3qgPnZ6RM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\puliy\\Desktop\\Materials\\Mission\\Mission\\Mission.Entities\\Mission.Entities.csproj",
+  "projectFilePath": "C:\\Users\\puliy\\OneDrive\\Documents\\Internship\\Mission\\Mission.Entities\\Mission.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\puliy\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\puliy\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

@@ -21,9 +21,9 @@ namespace Mission.Entities.context
                 Id = 1,
                 FirstName = "Tatva",
                 LastName = "Admin",
-                EmailAddress = "admin@tatvasoft.com",
+                EmailAddress = "admin@gmail.com",
                 UserType = "admin",
-                Password = "Tatva@123",
+                Password = "Gmail@123",
                 PhoneNumber = "9876543210",
                 CreatedDate = new DateTime(2019, 1, 1, 0, 0, 0, DateTimeKind.Utc)
             }
@@ -33,7 +33,7 @@ namespace Mission.Entities.context
         Id = 2,
         FirstName = "John",
         LastName = "Doe",
-        EmailAddress = "john.doe@example.com",
+        EmailAddress = "john@ex.com",
         UserType = "user",
         Password = "John@123",
         PhoneNumber = "9123456780",

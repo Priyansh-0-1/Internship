@@ -84,12 +84,12 @@ namespace Mission.Entities.Migrations
                         {
                             Id = 1,
                             CreatedDate = new DateTime(2019, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc),
-                            EmailAddress = "admin@tatvasoft.com",
+                            EmailAddress = "admin@gmail.com",
                             FirstName = "Tatva",
                             IsDeleted = false,
                             LastName = "Admin",
                             ModifiedDate = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Password = "Tatva@123",
+                            Password = "Gmail@123",
                             PhoneNumber = "9876543210",
                             UserImage = "",
                             UserType = "admin"
@@ -98,7 +98,7 @@ namespace Mission.Entities.Migrations
                         {
                             Id = 2,
                             CreatedDate = new DateTime(2020, 5, 15, 0, 0, 0, 0, DateTimeKind.Utc),
-                            EmailAddress = "john.doe@example.com",
+                            EmailAddress = "john@ex.com",
                             FirstName = "John",
                             IsDeleted = false,
                             LastName = "Doe",
